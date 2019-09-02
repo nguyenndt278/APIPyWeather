@@ -7,6 +7,7 @@ Reason for this is because different latitudes receive different amount of sunli
 
 Cities that closed to the equator do not show much of the difference in temperatures. Temperatures in this area are relatively high compared to all other places on Earth. 
 
+
 2. There seems to be not a strong correlation between humidity and latitude.
 
 3.There is not a strong correlation between wind speed and latitude. 
